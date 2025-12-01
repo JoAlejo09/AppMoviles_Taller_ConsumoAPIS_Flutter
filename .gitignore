@@ -1,0 +1,29 @@
+# Dart & Flutter
+.dart_tool/
+.build/
+.packages
+.pub/
+
+# Flutter build outputs
+build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+
+# IDEs
+.idea/
+.vscode/
+
+# System files
+*.DS_Store
+*.log
+*.lock
